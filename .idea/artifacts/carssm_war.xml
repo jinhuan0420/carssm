@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="carssm:war">
+    <output-path>$PROJECT_DIR$/carssm/target</output-path>
+    <root id="archive" name="carssm.war">
+      <element id="artifact" artifact-name="carssm:war exploded" />
+    </root>
+  </artifact>
+</component>
